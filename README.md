@@ -30,3 +30,5 @@ _Changes are committed and pushed to Github.
 _Pull Requests are used to review and merge changes.
 
 Project status : Updated by Branch A
+Project status: Updated by Branch B
+
